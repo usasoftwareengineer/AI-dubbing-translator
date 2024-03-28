@@ -1,6 +1,7 @@
 # AI-dubbing-translator
 You can dub or translate your video with AI voices provided by Open AI
 ### Tutorial
+https://youtu.be/v2aXjtPpHXI?si=3_CfoIFWOgMtqzuV
 ### Setting
 1. Follow Open AI quick guide: [Open AI doc](https://platform.openai.com/docs/quickstart?context=python)
 3. Get Open AI API key
